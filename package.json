@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@cypress/vue": "^5.0.4",
+    "@cypress/webpack-dev-server": "^3.3.0",
+    "cypress": "^12.7.0"
+  }
+}
